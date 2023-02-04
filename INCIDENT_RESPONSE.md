@@ -40,16 +40,16 @@ So it supports responding to incident systematically so that appropriate actions
 + How is the I.R team access to systems monitored ?
 	Who's watching the watchers, capturing the activity's
 ## QUESTIONS TO ASK DURING AN INCIDENT
-1 - Now what ?
-2- Who should i report it to ? and what should i report ?
-3- how mush will this cost ?
-4- what this the attackers take ?
-5- how did dey get in ?
-6- what will it take us to get back to full operations ?
-7- what else we don't know about ?
-8- how could we have prevented this ? & how do we make sure it never happens again ?
-9- how could we have been better prepared ?
-10- who were the attackers ? & what was their motivation ?
+**1**- Now what ?
+**2**- Who should i report it to ? and what should i report ?
+**3**- how mush will this cost ?
+**4**- what this the attackers take ?
+**5**- how did dey get in ?
+**6**- what will it take us to get back to full operations ?
+**7**- what else we don't know about ?
+**8**- how could we have prevented this ? & how do we make sure it never happens again ?
+**9**- how could we have been better prepared ?
+**10**- who were the attackers ? & what was their motivation ?
 ## COMMUN STAKEHOLDERS FOR I.R
 + Chief Executive
 + Human Resources
