@@ -40,16 +40,16 @@ So it supports responding to incident systematically so that appropriate actions
 + How is the I.R team access to systems monitored ?
 	Who's watching the watchers, capturing the activity's
 ## QUESTIONS TO ASK DURING AN INCIDENT
-**1**- Now what ?
-**2**- Who should i report it to ? and what should i report ?
-**3**- how mush will this cost ?
-**4**- what this the attackers take ?
-**5**- how did dey get in ?
-**6**- what will it take us to get back to full operations ?
-**7**- what else we don't know about ?
-**8**- how could we have prevented this ? & how do we make sure it never happens again ?
-**9**- how could we have been better prepared ?
-**10**- who were the attackers ? & what was their motivation ?
+* Now what ?
+* Who should i report it to ? and what should i report ?
+* how mush will this cost ?
+* what this the attackers take ?
+* how did dey get in ?
+* what will it take us to get back to full operations ?
+* what else we don't know about ?
+* how could we have prevented this ? & how do we make sure it never happens again ?
+* how could we have been better prepared ?
+* who were the attackers ? & what was their motivation ?
 ## COMMUN STAKEHOLDERS FOR I.R
 + Chief Executive
 + Human Resources
@@ -64,7 +64,7 @@ So it supports responding to incident systematically so that appropriate actions
 + Its good to have cross-tranning between the Two to shre knowledge
 + If there is only one person for I.R he must focus on updates, good I.R plan, outside agents
 # 2 - INCIDENT RESPONSE PROCESS
-## PREPARATION
+## + PREPARATION
 The incident response process includes identifying an attack, understanding its severity and prioritizing it, investigating and mitigating the attack, restoring operations, and taking action to ensure it won’t recur.
 An incident response plan (IRP) is a set of documented procedures detailing the steps that should be taken in each phase of incident response. It should include guidelines for roles and responsibilities, communication plans, and standardized response protocols.
 Here are the main reasons you must have a strong incident response plan in place:
@@ -80,7 +80,7 @@ Preserves critical knowledge
 an incident response plan ensures critical knowledge and best practices for dealing with a crisis are not forgotten over time and lessons learned are incrementally added
 Practice makes perfect
 an incident response plan creates a clear, repeatable process that is followed in every incident, improving coordination and effectiveness of response over time
-## DETECTION & ANALYSIS
+## + DETECTION & ANALYSIS
 ### PRECURSORS
 A precursor is a sign that an incident may accur in he future so you get a heads up
 For example : could be a web server log entries that show an usage of a vulnerability scanner
@@ -97,11 +97,11 @@ Emails sent to employees with suspicious content
 To ensure that sensitive data is not lost, misused, or accessed by unauthorized users
 + SIEM
 Deals with the log files directly to create an event or an alert
-## CONTAINEMENT
+## + CONTAINEMENT
 Containment is important before an incident overwhelms resources or increases in damage. Containment strategies vary based on the type of incident. The whole point of containment is to be able to stop the threat and mitigate any further damage.
-## ERADICATION
+## + ERADICATION
 Eradication os the process of getting rid of the incident, deleting the malware, securing the ports, block the users ...
-## RECOVERY
+## + RECOVERY
 Recovery may involve such actions as restoring systems from clean backups, rebuilding systems from scratch, replacing compromised files with clean versions, installing patches, changing passwords, configuring the network, such as the firewall rulesets, router access control lists, etc.
 # 3 - INCIDENT RESPONSE DEMO
 ## QRADAR
