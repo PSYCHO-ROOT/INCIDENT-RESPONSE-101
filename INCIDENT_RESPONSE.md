@@ -17,7 +17,7 @@ So it supports responding to incident systematically so that appropriate actions
 + **INCIDENT (capital I )**: Violation of CIA with a buissnes impact
 + **Breach**: Loss of specific data that triggers legal obligations above and beyond I.R
 ## SECURITY OPERATIONS CENTER
-![net](https://tryhackme-images.s3.amazonaws.com/user-uploads/60c7fac321aca20049602d2b/room-content/ac6d125de72c99f799d13c1aaf0c55dd.PNG)
+![net](https://www.exabeam.com/wp-content/uploads/2018/08/soc-graph@3x.png)
 ## CERT ( CYBER INCIDENT RESPONSE TEAM )
 + Central**: As a small company who have their team in the same local
 + Distributed**: A large company who have multiple locals and evey local have his own I.R team
